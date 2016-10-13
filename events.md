@@ -12,6 +12,8 @@ Upcoming Events
   <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;hl=en&amp;bgcolor=%23FFFFFF&amp;src=8d3fc8l9g04n7r9im45fsn08ak%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
+Featured Event
+
 Third Presidential Debate
 Date: Wednesday, October 19
 Time: 9:00pm Eastern Standard Time
@@ -42,6 +44,7 @@ First Presidential Debate
   CBS: https://www.youtube.com/playlist?list=PLEb3ThbkPrFZV-HePjrQVMHyHOeWaneX6
   ABC: https://youtu.be/GQFGTDFvMSc
   PBS: https://youtu.be/7BGYYaaLrTc
+  FOX: https://youtu.be/ubp0CEbqW-U?t=54m35s
   
 Second Presidential Debate
   NBC: https://youtu.be/FRlI2SQ0Ueg
