@@ -39,5 +39,6 @@ More Information
 
 NYC Board of Elections Voting Day Page: http://vote.nyc.ny.us/html/voters/day.shtml
 New York City Campaign Finance Board Voter Registration Guide (only available after October 25, 2016). http://www.nyccfb.info/nyc-votes/voter-guide
+How to Mark Your Ballot: http://vote.nyc.ny.us/html/newway_en/using_scanner.shtml
 Voting Maching Information: https://www.elections.ny.gov/VotingMachines.html
 Military and Overseas Voters: https://www.elections.ny.gov/VotingMilitaryFed.html
