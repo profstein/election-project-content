@@ -1,5 +1,5 @@
 
-Event Calendar
+Events Calendar
 
 <div class="eventCalendar">
   <iframe src="https://calendar.google.com/calendar/embed?src=8d3fc8l9g04n7r9im45fsn08ak%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -35,14 +35,27 @@ Get Election Reminders: https://www.rockthevote.com/get-informed/elections/remin
 Twitter #Election2016: https://twitter.com/i/streams/stream/692841134482063360
 
 
-Previous Debates
+Videos of Previous Debates
 
-First Debate
-  NBC: https://www.youtube.com/watch?v=855Am6ovK7s
+First Presidential Debate
+  NBC: https://youtu.be/855Am6ovK7s
+  CBS: https://www.youtube.com/playlist?list=PLEb3ThbkPrFZV-HePjrQVMHyHOeWaneX6
+  ABC: https://youtu.be/GQFGTDFvMSc
+  PBS: https://youtu.be/7BGYYaaLrTc
   
-Second Debate
-  NBC: https://www.youtube.com/watch?v=FRlI2SQ0Ueg
+Second Presidential Debate
+  NBC: https://youtu.be/FRlI2SQ0Ueg
+  CBS: https://youtu.be/ooShpws3Dik
+  ABC: https://youtu.be/h-gkBUbU_F4
+  PBS: https://youtu.be/hqlB80QLr9M
   
+  FOX: (general debate coverage) https://www.youtube.com/playlist?list=PLlTLHnxSVuIxC-yk6lYqsu4nW08qAE-jm
+  
+Vice Presidential Debate
+  NBC: https://youtu.be/mVXqNcW_-HA
+  CBS: https://www.youtube.com/playlist?list=PLEb3ThbkPrFYYnjSnwFgA2TG3P7gWIh1-
+  ABC: https://youtu.be/9GfywoUoaok
+  PBS: https://youtu.be/is8cx0q39bI
   
 
 
