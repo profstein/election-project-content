@@ -32,10 +32,12 @@ Become a Poll Worker. Work at the polls on election day for the NY Board of Elec
 
 CUNY Poll Worker Initiative. If you are a CUNY Student you can work as an inspector or interpreter on Election Day. You can earn $100 for working on election day and $100 for attending training and passing the exam. [Click here](http://www2.cuny.edu/employment/student-jobs/jobs/poll-worker-initiative/) for more information.
 
-New York City Campaign Finance Board Voter Registration Guide (only available after October 25, 2016). http://www.nyccfb.info/nyc-votes/voter-guide
+NYC Board of Elections Volunteer Opportunities: https://www.volunteermatch.org/search/org306545.jsp#opportunities_tab
+
 
 More Information
 
 NYC Board of Elections Voting Day Page: http://vote.nyc.ny.us/html/voters/day.shtml
+New York City Campaign Finance Board Voter Registration Guide (only available after October 25, 2016). http://www.nyccfb.info/nyc-votes/voter-guide
 Voting Maching Information: https://www.elections.ny.gov/VotingMachines.html
 Military and Overseas Voters: https://www.elections.ny.gov/VotingMilitaryFed.html
