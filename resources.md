@@ -22,6 +22,21 @@ Official and well-known, non-partisan sources to go to get information on the el
 * Federal Voting Assistance Project: https://www.fvap.gov/. FVAP is a federal program charged with helping military and US citizens get the tools and information to vote.
 * Vote 411: http://www.vote411.org/ is created by the League of Women Voters to give out non-partisan information on how to vote.
 
+Media
+
+* New York Times (Newspaper): http://www.nytimes.com/interactive/2016/us/elections/election-2016.html and http://www.nytimes.com/news-event/election-2016
+* WNYC (Local Public Radio): http://www.wnyc.org/series/everything-you-need-know-about-2016-elections
+* ABC (TV): http://abcnews.go.com/Politics/Election
+* CBS (TV): http://www.cbsnews.com/election-2016/
+* FOX (TV): http://www.foxnews.com/politics/elections/2016/presidential-election-headquarters 
+* PBS (TV): http://www.pbs.org/election2016/home/  and http://www.pbseduelectioncentral.com/election-collection
+* NBC (TV): http://www.nbcnews.com/politics/2016-election
+* CNN (TV): http://edition.cnn.com/election
+* C-SPAN (TV): https://www.c-span.org/series/?campaign2016
+* Twitter (online): https://twitter.com/i/streams/stream/692841134482063360?lang=en 
+* Politico (online): http://www.politico.com/
+
+
 Political Parties and Campaigns
 
 On the candidates page you can go to candidate web sites to get involved in their campaigns. Listed here are the party web sites for the major political parties
