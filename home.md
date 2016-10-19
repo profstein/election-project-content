@@ -12,8 +12,8 @@ How to Register
 
 Voting Information
 
-Candidates
+Information about Candidates
 
-Events
+Upcoming Events
 
-Resources
+Election Resources
