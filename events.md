@@ -52,7 +52,14 @@ Second Presidential Debate
   ABC: https://youtu.be/h-gkBUbU_F4
   PBS: https://youtu.be/hqlB80QLr9M
   
-  FOX: (general debate coverage) https://www.youtube.com/playlist?list=PLlTLHnxSVuIxC-yk6lYqsu4nW08qAE-jm
+  
+Third Presidential Debate
+  NBC: https://youtu.be/smkyorC5qwc
+  CBS: https://youtu.be/ye0Xblp_Nb0
+  ABC: Highlights, no full video: https://www.youtube.com/playlist?list=PLQOa26lW-uI9xMDNbNb5tU0avO0jO_zaT
+  PBS: https://youtu.be/84cJdY8wkV8
+  
+  FOX: (general debate coverage) https://www.youtube.com/playlist?list=PLlTLHnxSVuIxC-yk6lYqsu4nW08qAE-jm  
   
 Vice Presidential Debate
   NBC: https://youtu.be/mVXqNcW_-HA
